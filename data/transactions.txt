@@ -1,0 +1,5 @@
+income,Salary,5000.0,2025-05-01
+expense,Rent,1500.0,2025-05-02
+expense,Groceries,300.0,2025-05-03
+income,Freelance,2000.0,2025-04-20
+expense,Fees,20000.0,2025-05-03
